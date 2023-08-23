@@ -1,8 +1,3 @@
-# BLAZERGAMES
-
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
-
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
 
@@ -17,5 +12,3 @@ Here are some other deployment options to deploy the site on your own.
 [![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/beforeblazergithub/BlazerGames)
 <br>
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/beforeblazergithub/BlazerGames)
-<br>
-[![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/beforeblazergithub/BlazerGames)
